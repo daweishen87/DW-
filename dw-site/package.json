@@ -2,12 +2,14 @@
   "name": "dw-site",
   "version": "1.0.0",
   "private": true,
-  "engines": { "node": ">=18.18" },
+  "engines": {
+    "node": ">=18.18"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "eslint src --ext .ts,.tsx",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {

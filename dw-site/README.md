@@ -17,7 +17,7 @@ npm run build && npm start
 - 價格、規格、賣貨便網址、LINE 網址、保養指南、FAQ：全部在 `src/config/site.ts`。
 - FAQ 中 `pending: true` 的項目會顯示黃底「【待確認】」，補上答案後刪除 `pending` 即可。
 - 頁面版面：`src/app/page.tsx`；樣式：`src/app/globals.css`。
-- 圖片：`public/images/`（同檔名替換即可）。Logo 為 `public/images/dw-logo.png`（透明底 PNG），在深色區塊以 CSS 反白顯示。
+- 圖片：`public/images/`（同檔名替換即可）。Logo 為 `public/images/dw-logo.png`（透明底 PNG）。
 - favicon：`src/app/icon.png`。
 
 ## 部署到 Vercel
@@ -25,3 +25,9 @@ npm run build && npm start
 2. 在 Vercel 選 Add New → Project，匯入該 Repository。
 3. Framework Preset 會自動辨識為 Next.js，Build Command 用預設 `next build`，無需環境變數。
 4. Deploy。若有自訂網域，再於 Vercel 的 Domains 設定。
+
+## Titan 版面改版
+
+依照 [Titan](https://www.titan.com/) 的版面與視覺風格，使用原有 DW 文案與照片。設計規則見根目錄 `DESIGN.md`；比較截圖與驗證結果見 `docs/research/titan/`。
+
+導覽、產品頁籤與捲動拼貼分別位於 `SiteNav.tsx`、`ProductDetails.tsx`、`ScrollCollage.tsx`。小螢幕與減少動態效果設定有獨立排版。
