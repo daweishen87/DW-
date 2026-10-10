@@ -1,8 +1,20 @@
 import { site, buyLabel } from "@/config/site";
 
-export function BuyButton({ className = "btn", style }: { className?: string; style?: React.CSSProperties }) {
+export function BuyButton({
+  className = "btn",
+  style,
+}: {
+  className?: string;
+  style?: React.CSSProperties;
+}) {
   return (
-    <a className={className} style={style} href={site.links.buy} target="_blank" rel="noopener noreferrer">
+    <a
+      className={className}
+      style={style}
+      href={site.links.buy}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
       {buyLabel}
     </a>
   );

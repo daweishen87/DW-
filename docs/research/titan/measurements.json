@@ -1,0 +1,705 @@
+{
+  "height": 18488,
+  "colors": "",
+  "headings": [
+    {
+      "text": "The wealth managerfor tech professionals.",
+      "rect": {
+        "x": 124,
+        "y": 586,
+        "width": 1192,
+        "height": 60,
+        "top": 586,
+        "right": 1316,
+        "bottom": 646,
+        "left": 124
+      },
+      "font": "24px / 30px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(253, 254, 250)"
+    },
+    {
+      "text": "We manage your investments, equity compensation, tax planning, retirement, and beyond. One team, all in one place.",
+      "rect": {
+        "x": 124,
+        "y": 662,
+        "width": 1192,
+        "height": 90,
+        "top": 662,
+        "right": 1316,
+        "bottom": 752,
+        "left": 124
+      },
+      "font": "24px / 30px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(226, 226, 222)"
+    },
+    {
+      "text": "Trusted by employees of",
+      "rect": {
+        "x": 124,
+        "y": 935,
+        "width": 249.46875,
+        "height": 30,
+        "top": 935,
+        "right": 373.46875,
+        "bottom": 965,
+        "left": 124
+      },
+      "font": "24px / 30px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "We manage wealth for professionals at leading tech companies, from pre-IPO stock options to public company RSUs.",
+      "rect": {
+        "x": 124,
+        "y": 1168,
+        "width": 1192,
+        "height": 198,
+        "top": 1168,
+        "right": 1316,
+        "bottom": 1366,
+        "left": 124
+      },
+      "font": "48px / 66px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "Your wealth,fully managed.",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "48px / 60px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(253, 254, 250)"
+    },
+    {
+      "text": "Dedicated wealth advisor",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "20px / 27.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "Investment management",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "20px / 27.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "Equity compensation",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "20px / 27.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "Tax planning",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "20px / 27.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "Financial planning",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "20px / 27.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "Retirement",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "font": "20px / 27.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "Your wealth,fully managed.",
+      "rect": {
+        "x": 573.5,
+        "y": 2269,
+        "width": 293,
+        "height": 120,
+        "top": 2269,
+        "right": 866.5,
+        "bottom": 2389,
+        "left": 573.5
+      },
+      "font": "48px / 60px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(253, 254, 250)"
+    },
+    {
+      "text": "Your wealth,fully managed.",
+      "rect": {
+        "x": 573.5,
+        "y": 2269,
+        "width": 293,
+        "height": 120,
+        "top": 2269,
+        "right": 866.5,
+        "bottom": 2389,
+        "left": 573.5
+      },
+      "font": "48px / 60px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "Why our clients choose Titan",
+      "rect": {
+        "x": 425.609375,
+        "y": 6787,
+        "width": 588.78125,
+        "height": 66,
+        "top": 6787,
+        "right": 1014.390625,
+        "bottom": 6853,
+        "left": 425.609375
+      },
+      "font": "48px / 66px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "“Greater clarity and confidence”",
+      "rect": {
+        "x": 208,
+        "y": 7065,
+        "width": 376.53125,
+        "height": 38.5,
+        "top": 7065,
+        "right": 584.53125,
+        "bottom": 7103.5,
+        "left": 208
+      },
+      "font": "28px / 38.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "“Needed a wealth advisor who understood the tech industry”",
+      "rect": {
+        "x": 208,
+        "y": 7065,
+        "width": 560,
+        "height": 77,
+        "top": 7065,
+        "right": 768,
+        "bottom": 7142,
+        "left": 208
+      },
+      "font": "28px / 38.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "“Beyond just growing wealth... a proactive strategy”",
+      "rect": {
+        "x": 208,
+        "y": 7065,
+        "width": 560,
+        "height": 77,
+        "top": 7065,
+        "right": 768,
+        "bottom": 7142,
+        "left": 208
+      },
+      "font": "28px / 38.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "TitanDiversify",
+      "rect": {
+        "x": 383,
+        "y": 9183,
+        "width": 674,
+        "height": 120,
+        "top": 9183,
+        "right": 1057,
+        "bottom": 9303,
+        "left": 383
+      },
+      "font": "48px / 60px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "Diversify concentrated stock without a giant tax bill.",
+      "rect": {
+        "x": 383,
+        "y": 9327,
+        "width": 273.671875,
+        "height": 55,
+        "top": 9327,
+        "right": 656.671875,
+        "bottom": 9382,
+        "left": 383
+      },
+      "font": "20px / 27.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(89, 87, 85)"
+    },
+    {
+      "text": "Resources",
+      "rect": {
+        "x": 124,
+        "y": 11724.8125,
+        "width": 222.109375,
+        "height": 196,
+        "top": 11724.8125,
+        "right": 346.109375,
+        "bottom": 11920.8125,
+        "left": 124
+      },
+      "font": "48px / 66px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(253, 254, 250)"
+    },
+    {
+      "text": "Frequently asked questions",
+      "rect": {
+        "x": 439.5,
+        "y": 12499.8125,
+        "width": 560.984375,
+        "height": 66,
+        "top": 12499.8125,
+        "right": 1000.484375,
+        "bottom": 12565.8125,
+        "left": 439.5
+      },
+      "font": "48px / 66px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "Is Titan a fiduciary?",
+      "rect": {
+        "x": 0,
+        "y": 12613.8125,
+        "width": 1440,
+        "height": 91,
+        "top": 12613.8125,
+        "right": 1440,
+        "bottom": 12704.8125,
+        "left": 0
+      },
+      "font": "20px / 27.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "How is Titan different from my financial advisor?",
+      "rect": {
+        "x": 0,
+        "y": 12705.8125,
+        "width": 1440,
+        "height": 91,
+        "top": 12705.8125,
+        "right": 1440,
+        "bottom": 12796.8125,
+        "left": 0
+      },
+      "font": "20px / 27.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "What are the fees?",
+      "rect": {
+        "x": 0,
+        "y": 12797.8125,
+        "width": 1440,
+        "height": 91,
+        "top": 12797.8125,
+        "right": 1440,
+        "bottom": 12888.8125,
+        "left": 0
+      },
+      "font": "20px / 27.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "I haven't heard of Titan. Is it new?",
+      "rect": {
+        "x": 0,
+        "y": 12889.8125,
+        "width": 1440,
+        "height": 91,
+        "top": 12889.8125,
+        "right": 1440,
+        "bottom": 12980.8125,
+        "left": 0
+      },
+      "font": "20px / 27.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "Is my money protected if something happens to Titan?",
+      "rect": {
+        "x": 0,
+        "y": 12981.8125,
+        "width": 1440,
+        "height": 91,
+        "top": 12981.8125,
+        "right": 1440,
+        "bottom": 13072.8125,
+        "left": 0
+      },
+      "font": "20px / 27.5px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(18, 16, 14)"
+    },
+    {
+      "text": "Ready to begin yourfinancial journey?",
+      "rect": {
+        "x": 516.234375,
+        "y": 14852.8125,
+        "width": 407.53125,
+        "height": 132,
+        "top": 14852.8125,
+        "right": 923.765625,
+        "bottom": 14984.8125,
+        "left": 516.234375
+      },
+      "font": "48px / 66px neueMontreal, \"neueMontreal Fallback\"",
+      "color": "rgb(253, 254, 250)"
+    }
+  ],
+  "sections": [
+    {
+      "tag": "SECTION",
+      "cls": "flex lg:h-[10vh] items-center justify-between px-6 py-10 lg:px-31 lg:py-10",
+      "rect": {
+        "x": 0,
+        "y": 900,
+        "width": 1440,
+        "height": 100,
+        "top": 900,
+        "right": 1440,
+        "bottom": 1000,
+        "left": 0
+      },
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "relative lg:h-[350vh]",
+      "rect": {
+        "x": 0,
+        "y": 1871,
+        "width": 1440,
+        "height": 3500,
+        "top": 1871,
+        "right": 1440,
+        "bottom": 5371,
+        "left": 0
+      },
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "pt-28",
+      "rect": {
+        "x": 0,
+        "y": 5371,
+        "width": 1440,
+        "height": 991,
+        "top": 5371,
+        "right": 1440,
+        "bottom": 6362,
+        "left": 0
+      },
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "relative lg:min-h-[170vh]",
+      "rect": {
+        "x": 0,
+        "y": 6362,
+        "width": 1440,
+        "height": 1700,
+        "top": 6362,
+        "right": 1440,
+        "bottom": 8062,
+        "left": 0
+      },
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "relative lg:h-[300vh]",
+      "rect": {
+        "x": 0,
+        "y": 8062,
+        "width": 1440,
+        "height": 3000,
+        "top": 8062,
+        "right": 1440,
+        "bottom": 11062,
+        "left": 0
+      },
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "bg-brand-100 overflow-hidden text-white",
+      "rect": {
+        "x": 0,
+        "y": 11062,
+        "width": 1440,
+        "height": 970.8125,
+        "top": 11062,
+        "right": 1440,
+        "bottom": 12032.8125,
+        "left": 0
+      },
+      "bg": "rgb(18, 16, 14)"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "relative lg:h-[170vh]",
+      "rect": {
+        "x": 0,
+        "y": 12032.8125,
+        "width": 1440,
+        "height": 1700,
+        "top": 12032.8125,
+        "right": 1440,
+        "bottom": 13732.8125,
+        "left": 0
+      },
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SECTION",
+      "cls": "relative lg:h-[300vh]",
+      "rect": {
+        "x": 0,
+        "y": 13732.8125,
+        "width": 1440,
+        "height": 3000,
+        "top": 13732.8125,
+        "right": 1440,
+        "bottom": 16732.8125,
+        "left": 0
+      },
+      "bg": "rgba(0, 0, 0, 0)"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.titan.com/brand/logo.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": ""
+    },
+    {
+      "src": "https://www.titan.com/brand/logo.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": ""
+    },
+    {
+      "src": "https://www.titan.com/logos/apple-dark.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": "Apple"
+    },
+    {
+      "src": "https://www.titan.com/logos/apple-color.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": ""
+    },
+    {
+      "src": "https://www.titan.com/logos/microsoft-dark.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": "Microsoft"
+    },
+    {
+      "src": "https://www.titan.com/logos/microsoft-color.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": ""
+    },
+    {
+      "src": "https://www.titan.com/logos/meta-dark.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": "Meta"
+    },
+    {
+      "src": "https://www.titan.com/logos/meta-color.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": ""
+    },
+    {
+      "src": "https://www.titan.com/logos/salesforce-dark.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": "Salesforce"
+    },
+    {
+      "src": "https://www.titan.com/logos/salesforce-color.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": ""
+    },
+    {
+      "src": "https://www.titan.com/logos/slack-dark.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": "Slack"
+    },
+    {
+      "src": "https://www.titan.com/logos/slack-color.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": ""
+    },
+    {
+      "src": "https://www.titan.com/logos/spotify-dark.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": "Spotify"
+    },
+    {
+      "src": "https://www.titan.com/logos/spotify-color.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": ""
+    },
+    {
+      "src": "https://www.titan.com/logos/airbnb-dark.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": "Airbnb"
+    },
+    {
+      "src": "https://www.titan.com/logos/airbnb-color.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": ""
+    },
+    {
+      "src": "https://www.titan.com/logos/anthropic-dark.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": "Anthropic"
+    },
+    {
+      "src": "https://www.titan.com/logos/anthropic-color.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": ""
+    },
+    {
+      "src": "",
+      "alt": ""
+    },
+    {
+      "src": "",
+      "alt": ""
+    },
+    {
+      "src": "",
+      "alt": ""
+    },
+    {
+      "src": "",
+      "alt": ""
+    },
+    {
+      "src": "",
+      "alt": ""
+    },
+    {
+      "src": "",
+      "alt": ""
+    },
+    {
+      "src": "",
+      "alt": ""
+    },
+    {
+      "src": "",
+      "alt": ""
+    },
+    {
+      "src": "https://www.titan.com/logos/apple-dark.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": ""
+    },
+    {
+      "src": "",
+      "alt": ""
+    },
+    {
+      "src": "https://www.titan.com/logos/meta-dark.svg?dpl=dpl_6HseErDr6uVnyGJhMC4j8cgXmn9j",
+      "alt": ""
+    },
+    {
+      "src": "",
+      "alt": "Sofia Silveira"
+    },
+    {
+      "src": "",
+      "alt": ""
+    },
+    {
+      "src": "",
+      "alt": ""
+    },
+    {
+      "src": "",
+      "alt": "Titan"
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://www.titan.com/desktop-hero.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://www.titan.com/mosiac/geometry.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://www.titan.com/mosiac/talking.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://www.titan.com/mosiac/writing.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://www.titan.com/product/desktop.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://www.titan.com/background-video.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://www.titan.com/spiral.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://www.titan.com/resources/nature.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://www.titan.com/background-video2.mp4",
+      "poster": ""
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "overflow": false,
+    "errors": [],
+    "brokenImages": [],
+    "menu": true,
+    "tabs": true,
+    "keyboardTabs": true,
+    "faq": true,
+    "outboundLinks": true
+  },
+  {
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "overflow": false,
+    "errors": [],
+    "brokenImages": [],
+    "menu": true,
+    "tabs": true,
+    "keyboardTabs": true,
+    "faq": true,
+    "outboundLinks": true
+  },
+  {
+    "viewport": "small-mobile",
+    "width": 320,
+    "height": 740,
+    "overflow": false,
+    "errors": [],
+    "brokenImages": [],
+    "menu": true,
+    "tabs": true,
+    "keyboardTabs": true,
+    "faq": true,
+    "outboundLinks": true
+  },
+  {
+    "viewport": "wide",
+    "width": 1920,
+    "height": 1080,
+    "overflow": false,
+    "errors": [],
+    "brokenImages": [],
+    "menu": true,
+    "tabs": true,
+    "keyboardTabs": true,
+    "faq": true,
+    "outboundLinks": true
+  }
+]
